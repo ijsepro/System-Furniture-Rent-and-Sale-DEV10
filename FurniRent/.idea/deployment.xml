@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" serverName="Apache Local Web Server" deleteMissingItems="true">
     <serverData>
       <paths name="Apache Local Web Server">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$/../FurniRent/Front-End" web="/" />
-            <mapping local="$PROJECT_DIR$/../FurniRent" web="/" />
+            <mapping deploy="Customer\backEnd" local="$PROJECT_DIR$/backEnd" web="Customer\backEnd" />
           </mappings>
         </serverdata>
       </paths>
