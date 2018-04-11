@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { SellerComponent } from './seller_signup/seller.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SellerComponent
   ],
   imports: [
     BrowserModule
