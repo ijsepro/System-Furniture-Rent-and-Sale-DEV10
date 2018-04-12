@@ -1,0 +1,34 @@
+.navbar{
+  background-color: #5B6167 !important;
+}
+.navbar-brand{
+  color: white !important;
+
+}
+
+.nav-link{
+
+  color: white !important;
+  font-family: 'Righteous', cursive;
+  font-family: 'Concert One', cursive;
+  font-family: 'Kanit', sans-serif;
+}
+
+.navbar-nav mr-auto{
+
+  position: relative !important;
+  left: 50% !important;
+
+}
+
+.navbar .navbar-nav{
+  margin: 0 auto;
+}
+
+#title{
+   font-size: 30px;
+  font-weight: bold;
+  font-family: 'Righteous', cursive;
+  font-family: 'Concert One', cursive;
+  font-family: 'Kanit', sans-serif;
+}
