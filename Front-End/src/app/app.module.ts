@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { ViewComponent } from './view/view.component';
 import { NavBarComponent } from './view/nav-bar/nav-bar.component';
 import { SliderComponent } from './view/slider/slider.component';
+import { JumbotronComponent } from './view/jumbotron/jumbotron.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { SliderComponent } from './view/slider/slider.component';
     AppComponent,
     ViewComponent,
     NavBarComponent,
-    SliderComponent
+    SliderComponent,
+    JumbotronComponent
   ],
   imports: [
     BrowserModule
