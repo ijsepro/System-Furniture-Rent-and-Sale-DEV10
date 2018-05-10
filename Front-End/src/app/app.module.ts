@@ -7,6 +7,8 @@ import { ViewComponent } from './view/view.component';
 import { NavBarComponent } from './view/nav-bar/nav-bar.component';
 import { SliderComponent } from './view/slider/slider.component';
 import { JumbotronComponent } from './view/jumbotron/jumbotron.component';
+import { WelcomeSectionComponent } from './view/welcome-section/welcome-section.component';
+import { GoleComponent } from './view/gole/gole.component';
 
 
 @NgModule({
@@ -15,7 +17,9 @@ import { JumbotronComponent } from './view/jumbotron/jumbotron.component';
     ViewComponent,
     NavBarComponent,
     SliderComponent,
-    JumbotronComponent
+    JumbotronComponent,
+    WelcomeSectionComponent,
+    GoleComponent
   ],
   imports: [
     BrowserModule
