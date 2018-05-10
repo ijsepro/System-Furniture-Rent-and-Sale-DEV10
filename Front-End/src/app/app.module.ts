@@ -9,6 +9,9 @@ import { SliderComponent } from './view/slider/slider.component';
 import { JumbotronComponent } from './view/jumbotron/jumbotron.component';
 import { WelcomeSectionComponent } from './view/welcome-section/welcome-section.component';
 import { GoleComponent } from './view/gole/gole.component';
+import { SectionComponent } from './view/section/section.component';
+import { FixedAreaComponent } from './view/fixed-area/fixed-area.component';
+import { TeamComponent } from './view/team/team.component';
 
 
 @NgModule({
@@ -19,7 +22,10 @@ import { GoleComponent } from './view/gole/gole.component';
     SliderComponent,
     JumbotronComponent,
     WelcomeSectionComponent,
-    GoleComponent
+    GoleComponent,
+    SectionComponent,
+    FixedAreaComponent,
+    TeamComponent
   ],
   imports: [
     BrowserModule
