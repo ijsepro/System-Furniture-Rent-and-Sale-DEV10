@@ -15,6 +15,10 @@ import { TeamComponent } from './view/team/team.component';
 import { ProggressComponent } from './view/proggress/proggress.component';
 import { PhilosophyComponent } from './view/philosophy/philosophy.component';
 import { GigSliderComponent } from './view/gig-slider/gig-slider.component';
+import { ConnectComponent } from './view/connect/connect.component';
+import { CommentsComponent } from './view/comments/comments.component';
+import { AboutUsComponent } from './view/about-us/about-us.component';
+import { FooterComponent } from './view/footer/footer.component';
 
 
 @NgModule({
@@ -31,7 +35,11 @@ import { GigSliderComponent } from './view/gig-slider/gig-slider.component';
     TeamComponent,
     ProggressComponent,
     PhilosophyComponent,
-    GigSliderComponent
+    GigSliderComponent,
+    ConnectComponent,
+    CommentsComponent,
+    AboutUsComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule
