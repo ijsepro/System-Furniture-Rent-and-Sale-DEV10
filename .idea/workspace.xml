@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a19a2e9-7dd8-4ca0-9152-7f85cef4fcc2" name="Default" comment="" />
+    <list default="true" id="1a19a2e9-7dd8-4ca0-9152-7f85cef4fcc2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Front-End/src/app/view/team/team.component.css" afterPath="$PROJECT_DIR$/Front-End/src/app/view/team/team.component.css" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/app/view/team/team.component.html" afterPath="$PROJECT_DIR$/Front-End/src/app/view/team/team.component.html" />
+      <change beforePath="$PROJECT_DIR$/Front-End/src/app/view/view.component.html" afterPath="$PROJECT_DIR$/Front-End/src/app/view/view.component.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,21 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="view.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="view.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gole.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -56,8 +50,13 @@
         <option value="$PROJECT_DIR$/Front-End/src/styles.css" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.css" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/view.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/section/section.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.css" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/view.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/team/team.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/team/team.component.css" />
       </list>
     </option>
   </component>
@@ -71,9 +70,9 @@
     <handled-path value="$PROJECT_DIR$/Front-End/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="328" />
-    <option name="y" value="62" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="162" />
+    <option name="y" value="104" />
     <option name="width" value="1562" />
     <option name="height" value="1027" />
   </component>
@@ -96,6 +95,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,7 +137,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="gole" type="462c0819:PsiDirectoryNode" />
+              <item name="fixed-area" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -146,7 +147,6 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="gole" type="462c0819:PsiDirectoryNode" />
-              <item name="gole.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -164,7 +164,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome-section" type="462c0819:PsiDirectoryNode" />
+              <item name="section" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="team.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -174,24 +193,12 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="welcome-section" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome-section.component.ts" type="822dc5d7:ComponentFileGroup" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="view.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,14 +328,15 @@
       <workItem from="1523849422497" duration="774000" />
       <workItem from="1525856244338" duration="341000" />
       <workItem from="1525949626809" duration="228000" />
+      <workItem from="1525951181642" duration="501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6922000" />
+    <option name="totallyTimeSpent" value="7423000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="328" y="62" width="1562" height="1027" extended-state="1" />
+    <frame x="162" y="104" width="1562" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -347,10 +355,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27296937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27696404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -376,65 +384,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Front-End/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="201" lean-forward="false" selection-start-line="18" selection-start-column="201" selection-end-line="18" selection-end-column="201" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="86" lean-forward="false" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="201" lean-forward="false" selection-start-line="18" selection-start-column="201" selection-end-line="18" selection-end-column="201" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="164" lean-forward="false" selection-start-line="9" selection-start-column="164" selection-end-line="9" selection-end-column="164" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -707,31 +656,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.ts">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.css" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="32" />
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.css">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.html">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.ts">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="21" />
@@ -739,18 +709,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.html">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="1802">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding />
         </state>
       </provider>
