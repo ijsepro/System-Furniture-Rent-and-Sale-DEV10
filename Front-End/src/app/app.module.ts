@@ -12,6 +12,9 @@ import { GoleComponent } from './view/gole/gole.component';
 import { SectionComponent } from './view/section/section.component';
 import { FixedAreaComponent } from './view/fixed-area/fixed-area.component';
 import { TeamComponent } from './view/team/team.component';
+import { ProggressComponent } from './view/proggress/proggress.component';
+import { PhilosophyComponent } from './view/philosophy/philosophy.component';
+import { GigSliderComponent } from './view/gig-slider/gig-slider.component';
 
 
 @NgModule({
@@ -25,7 +28,10 @@ import { TeamComponent } from './view/team/team.component';
     GoleComponent,
     SectionComponent,
     FixedAreaComponent,
-    TeamComponent
+    TeamComponent,
+    ProggressComponent,
+    PhilosophyComponent,
+    GigSliderComponent
   ],
   imports: [
     BrowserModule
