@@ -18,3 +18,28 @@ img{
   top: 30%;
 }
 
+#light{
+  position: absolute;
+  align-items: center;
+  left: 40%;
+  top: 70%;
+  z-index: 9;
+  /*background-color: #34ce57;*/
+  /* border: none;*/
+  width: 20%;
+  height: 45px;
+  /*border-radius: 15px;*/
+  /*color: white;*/
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Kanit', sans-serif;
+}
+
+#usr{
+  z-index: 9;
+  left: 25%;
+  position: absolute;
+  top: 58%;
+  width: 50%;
+}
+
