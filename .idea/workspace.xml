@@ -15,8 +15,28 @@
       <file leaf-file-name="view.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+            <state relative-caret-position="163">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav-bar.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="51" column="92" lean-forward="true" selection-start-line="51" selection-start-column="92" selection-end-line="51" selection-end-column="92" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav-bar.component.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -25,18 +45,18 @@
       <file leaf-file-name="slider.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="816">
               <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slider.component.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="slider.component.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="765">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="23" />
+              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -82,16 +102,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gig-slider.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="section.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,8 +126,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Front-End/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.css" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/jumbotron/jumbotron.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/jumbotron/jumbotron.component.css" />
         <option value="$PROJECT_DIR$/Front-End/src/index.html" />
@@ -144,6 +152,8 @@
         <option value="$PROJECT_DIR$/Front-End/src/app/view/view.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.css" />
       </list>
     </option>
   </component>
@@ -157,11 +167,11 @@
     <handled-path value="$PROJECT_DIR$/Front-End/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="36" />
-    <option name="y" value="83" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="99" />
+    <option name="y" value="2" />
     <option name="width" value="1562" />
-    <option name="height" value="1056" />
+    <option name="height" value="1005" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,8 +191,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,27 +243,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="about-us" type="462c0819:PsiDirectoryNode" />
-              <item name="about-us.component.ts" type="822dc5d7:ComponentFileGroup" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="comments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="comments" type="462c0819:PsiDirectoryNode" />
-              <item name="comments.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -270,27 +261,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="connect" type="462c0819:PsiDirectoryNode" />
-              <item name="connect.component.ts" type="822dc5d7:ComponentFileGroup" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="fixed-area" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="fixed-area" type="462c0819:PsiDirectoryNode" />
-              <item name="fixed-area.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -308,27 +279,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="footer" type="462c0819:PsiDirectoryNode" />
-              <item name="footer.component.ts" type="822dc5d7:ComponentFileGroup" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="gig-slider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="gig-slider" type="462c0819:PsiDirectoryNode" />
-              <item name="gig-slider.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -355,7 +306,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="philosophy" type="462c0819:PsiDirectoryNode" />
+              <item name="nav-bar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="nav-bar" type="462c0819:PsiDirectoryNode" />
+              <item name="nav-bar.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -365,7 +326,6 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="philosophy" type="462c0819:PsiDirectoryNode" />
-              <item name="philosophy.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -383,16 +343,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="proggress" type="462c0819:PsiDirectoryNode" />
-              <item name="proggress.component.ts" type="822dc5d7:ComponentFileGroup" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="section" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -402,27 +352,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="section" type="462c0819:PsiDirectoryNode" />
-              <item name="section.component.ts" type="822dc5d7:ComponentFileGroup" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="slider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="slider" type="462c0819:PsiDirectoryNode" />
-              <item name="slider.component.ts" type="822dc5d7:ComponentFileGroup" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -442,21 +372,11 @@
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="welcome-section" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="view.component.ts" type="822dc5d7:ComponentFileGroup" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -464,6 +384,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git/System-Furniture-Rent-and-Sale-DEV10" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -587,45 +508,46 @@
       <workItem from="1525856244338" duration="341000" />
       <workItem from="1525949626809" duration="228000" />
       <workItem from="1525951181642" duration="501000" />
-      <workItem from="1525961945605" duration="3528000" />
+      <workItem from="1525961945605" duration="3920000" />
+      <workItem from="1526025246568" duration="1232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10951000" />
+    <option name="totallyTimeSpent" value="12575000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="83" width="1562" height="1056" extended-state="1" />
+    <frame x="99" y="2" width="1562" height="1005" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31926408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31844217" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2849534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -711,20 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="86" lean-forward="false" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
         </state>
       </provider>
     </entry>
@@ -833,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -841,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
           <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,7 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="372" column="0" lean-forward="false" selection-start-line="372" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -905,7 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -944,7 +845,7 @@
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="23" />
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -973,17 +874,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="816">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
@@ -991,8 +884,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="765">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="51" column="92" lean-forward="true" selection-start-line="51" selection-start-column="92" selection-end-line="51" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding />
         </state>
       </provider>
