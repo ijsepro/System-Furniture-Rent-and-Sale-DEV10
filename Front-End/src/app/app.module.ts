@@ -19,6 +19,7 @@ import { ConnectComponent } from './view/connect/connect.component';
 import { CommentsComponent } from './view/comments/comments.component';
 import { AboutUsComponent } from './view/about-us/about-us.component';
 import { FooterComponent } from './view/footer/footer.component';
+import { SignInComponent } from './view/sign-in/sign-in.component';
 
 
 @NgModule({
@@ -39,7 +40,8 @@ import { FooterComponent } from './view/footer/footer.component';
     ConnectComponent,
     CommentsComponent,
     AboutUsComponent,
-    FooterComponent
+    FooterComponent,
+    SignInComponent
   ],
   imports: [
     BrowserModule
