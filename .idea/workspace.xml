@@ -12,11 +12,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="view.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
+      <file leaf-file-name="gig-slider.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gig-slider.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slider.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="32" column="43" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="32" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gole.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="101" column="1" lean-forward="false" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -59,12 +123,10 @@
         <option value="$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.css" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.css" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.css" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html" />
@@ -73,9 +135,14 @@
         <option value="$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign.js" />
         <option value="$PROJECT_DIR$/Front-End/src/app/js.js" />
         <option value="$PROJECT_DIR$/Front-End/src/jquery.js" />
-        <option value="$PROJECT_DIR$/Front-End/src/index.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/view.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/owl/gig.js" />
+        <option value="$PROJECT_DIR$/Front-End/src/index.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.css" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.css" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.html" />
       </list>
     </option>
   </component>
@@ -89,11 +156,11 @@
     <handled-path value="$PROJECT_DIR$/Front-End/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="99" />
-    <option name="y" value="2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="364" />
+    <option name="y" value="186" />
     <option name="width" value="1562" />
-    <option name="height" value="1005" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -113,9 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,11 +213,99 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="comments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="comments" type="462c0819:PsiDirectoryNode" />
+              <item name="comments.component.ts" type="822dc5d7:ComponentFileGroup" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="gig-slider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="gig-slider" type="462c0819:PsiDirectoryNode" />
+              <item name="gig-slider.component.ts" type="822dc5d7:ComponentFileGroup" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="gole" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="gole" type="462c0819:PsiDirectoryNode" />
+              <item name="gole.component.ts" type="822dc5d7:ComponentFileGroup" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="slider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="slider" type="462c0819:PsiDirectoryNode" />
+              <item name="slider.component.ts" type="822dc5d7:ComponentFileGroup" />
+            </path>
+            <path>
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
+              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="view.component.ts" type="822dc5d7:ComponentFileGroup" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,6 +317,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Front-End\src" />
       <recent name="C:\Users\User\Desktop\pro\Anjular\Front-End\src\app\view\slider\img" />
     </key>
   </component>
@@ -288,14 +441,16 @@
       <workItem from="1525961945605" duration="3920000" />
       <workItem from="1526025246568" duration="1830000" />
       <workItem from="1526034847749" duration="1618000" />
+      <workItem from="1526054029194" duration="3325000" />
+      <workItem from="1526123965927" duration="5235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14791000" />
+    <option name="totallyTimeSpent" value="23351000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="2" width="1562" height="1005" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -316,8 +471,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31844217" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28894806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31798714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23773988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -343,34 +498,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -404,216 +531,33 @@
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.css" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.ts" />
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.html" />
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="372" column="0" lean-forward="false" selection-start-line="372" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.css" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.css" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.css" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.css" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.css" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.css" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,73 +573,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="51" column="92" lean-forward="false" selection-start-line="51" selection-start-column="92" selection-end-line="51" selection-end-column="92" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.css">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.css" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign.js" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/js.js" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/owl/gig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="3" lean-forward="false" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1893">
-          <caret line="1" column="86841" lean-forward="false" selection-start-line="1" selection-start-column="86841" selection-end-line="1" selection-end-column="86841" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.ts">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="24" />
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/index.html">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/lib/wow/wow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        <state relative-caret-position="-153">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="-68">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="32" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="101" column="1" lean-forward="false" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/comments/comments.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
