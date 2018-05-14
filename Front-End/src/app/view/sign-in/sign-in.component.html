@@ -1,81 +1,163 @@
-<div class="container">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Add icon library -->
 
-  <div class="row">
-    <div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
-      <form role="form">
-        <h2>Sign Up / Register <small>It's free and always will be.</small></h2>
-        <hr class="colorgraph">
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-6">
-            <div class="form-group">
-              <input type="text" name="first_name" id="first_name" class="form-control input-lg" placeholder="First Name" tabindex="1">
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-6">
-            <div class="form-group">
-              <input type="text" name="last_name" id="last_name" class="form-control input-lg" placeholder="Last Name" tabindex="2">
-            </div>
-          </div>
-        </div>
-        <div class="form-group">
-          <input type="text" name="display_name" id="display_name" class="form-control input-lg" placeholder="Display Name" tabindex="3">
-        </div>
-        <div class="form-group">
-          <input type="email" name="email" id="email" class="form-control input-lg" placeholder="Email Address" tabindex="4">
-        </div>
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-6">
-            <div class="form-group">
-              <input type="password" name="password" id="password" class="form-control input-lg" placeholder="Password" tabindex="5">
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-6">
-            <div class="form-group">
-              <input type="password" name="password_confirmation" id="password_confirmation" class="form-control input-lg" placeholder="Confirm Password" tabindex="6">
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4 col-sm-3 col-md-3">
-					<span class="button-checkbox">
-						<button type="button" class="btn" data-color="info" tabindex="7">I Agree</button>
-                        <input type="checkbox" name="t_and_c" id="t_and_c" class="hidden" value="1">
-					</span>
-          </div>
-          <div class="col-xs-8 col-sm-9 col-md-9">
-            By clicking <strong class="label label-primary">Register</strong>, you agree to the <a href="#" data-toggle="modal" data-target="#t_and_c_m">Terms and Conditions</a> set out by this site, including our Cookie Use.
-          </div>
-        </div>
 
-        <hr class="colorgraph">
-        <div class="row">
-          <div class="col-xs-12 col-md-6"><input type="submit" value="Register" class="btn btn-primary btn-block btn-lg" tabindex="7"></div>
-          <div class="col-xs-12 col-md-6"><a href="#" class="btn btn-success btn-block btn-lg">Sign In</a></div>
-        </div>
-      </form>
-    </div>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  <style>
+    body {font-family: Arial, Helvetica, sans-serif;}
+    * {
+
+      margin: 0;
+      padding: 0;
+    }
+
+    .input-container {
+      display: -ms-flexbox; /* IE10 */
+      display: flex;
+      width: 100%;
+      margin-bottom: 15px;
+    }
+
+    .icon {
+      padding: 10px;
+      background: dodgerblue;
+      color: white;
+      min-width: 50px;
+      text-align: center;
+      border-radius: 20px;
+    }
+
+    .input-field {
+      width: 100%;
+      padding: 10px;
+      outline: none;border-radius: 20px;
+      border: none;
+    }
+
+    .input-field:focus {
+      border: 2px solid dodgerblue;
+    }
+
+    /* Set a style for the submit button */
+    .btn {
+      background-color: dodgerblue;
+      color: white;
+      padding: 15px 20px;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+      opacity: 0.9;
+      border-radius: 20px;
+    }
+
+    .btn:hover {
+      opacity: 1;
+      background-color: rgba(115, 115, 115,0.85);
+
+    }
+    .back{
+      background: url("http://i.imgur.com/rshVZEt.jpg");
+      position: fixed;
+      width: 100%;
+      height: 1080px;
+    }
+    h2{
+      text-align: center;
+    }
+    #title{
+      color: white;
+      font-weight: bold;
+      font-size: 60px;
+      position: fixed;
+      left: 18%;
+    }
+
+    .form{
+      background-color: rgba(255,255,255,0.50);
+      height: 620px;
+      width: 32%;
+      position: fixed;
+      top: 20%;
+      left: 35%;
+      border-radius: 20px;
+    }
+    #sub{
+      color: white;
+      font-size: 45px;
+      animation-name: sub;
+      animation-duration: 20s;
+
+      animation-iteration-count: infinite;
+    }
+    @keyframes sub {
+      0%{ color: white}
+      10%{color: #D9ADE6}
+      20%{color: #D39AE3}
+      30%{color: #CD8EDE}
+      40%{color: #C579DA}
+      50%{color: #BB58D8}
+      60%{color: #F7ED3C}
+      70%{color: #F4ED62}
+      80%{color: #FFFA93}
+      90%{color: #FBF7AD}
+      100%{color: #F3F2D1}
+    }
+  img{
+    position: fixed;
+    width: 10%;
+    height: 65px;
+   left: 8%;
+  }
+
+    .main{
+      position: fixed;
+      top: 5%;
+    }
+  </style>
+</head>
+<body>
+<div class="back">
+  <div class="main">
+  <img src="asesst/wite.png"><h2 class=" h2" id="title">Welcome Ferniture Rental Registation Form</h2>
   </div>
-  <!-- Modal -->
-  <div class="modal fade" id="t_and_c_m" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myModalLabel">Terms & Conditions</h4>
-        </div>
-        <div class="modal-body">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, itaque, modi, aliquam nostrum at sapiente consequuntur natus odio reiciendis perferendis rem nisi tempore possimus ipsa porro delectus quidem dolorem ad.</p>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-primary" data-dismiss="modal">I Agree</button>
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-  </div><!-- /.modal -->
+    <div class="form">
+<form action="/action_page.php" style="max-width:500px;margin:auto"><br><br>
+  <h2 class="h2" id="sub">Register Hear</h2><br><br><br><br>
+  <div class="input-container">
+    <i class="fas fa-user icon"></i>
+    <input class="input-field" type="text" placeholder="Username" name="usrnm">
+  </div><br>
+
+  <div class="input-container">
+    <i class="fas fa-envelope icon"></i>
+    <input class="input-field" type="email" placeholder="Email" name="email">
+  </div><br>
+
+  <div class="input-container">
+    <i class="fas fa-handshake icon"></i>
+    <select class="input-field">
+      <option>Customer</option>
+      <option>Seller</option>
+      <option>Deliver</option>
+    </select>
+  </div><br>
+
+  <div class="input-container">
+    <i class="fas fa-key icon"></i>
+    <input class="input-field" type="password" placeholder="Password" name="psw"><i class="far fa-eye icon"></i>
+  </div><br>
+
+  <div class="input-container">
+    <i class="fas fa-key icon"></i>
+    <input class="input-field" type="password" placeholder="Confirm Password" name="psw"><i class="far fa-eye icon"></i>
+  </div><br>
+
+  <button type="submit" class="btn">Register</button>
+</form>
+  </div>
 </div>
+</body>
+</html>
