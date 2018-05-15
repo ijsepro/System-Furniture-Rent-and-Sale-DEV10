@@ -37,6 +37,10 @@
       border: none;
     }
 
+    .input-field:hover{
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.0);
+    }
+
     .input-field:focus {
       border: 2px solid dodgerblue;
     }
@@ -51,18 +55,19 @@
       width: 100%;
       opacity: 0.9;
       border-radius: 20px;
+      font-size: 18px;
     }
 
     .btn:hover {
       opacity: 1;
       background-color: rgba(115, 115, 115,0.85);
-
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.0);
     }
     .back{
       background: url("http://i.imgur.com/rshVZEt.jpg");
       position: fixed;
       width: 100%;
-      height: 1080px;
+      height: 100%;
     }
     h2{
       text-align: center;
@@ -83,6 +88,9 @@
       top: 20%;
       left: 35%;
       border-radius: 20px;
+    }
+    .form:hover{
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.0);
     }
     #sub{
       color: white;
@@ -116,6 +124,59 @@
       position: fixed;
       top: 5%;
     }
+    .eye:hover{
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.0);
+    }
+    .home{
+      background-color: rgba(255, 166, 77,1);
+    }
+    .social {
+      padding: 20px;
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+
+
+    }
+    h6{
+      color:white;
+    }
+
+    .fab{
+      background: transparent;
+    }
+    .fab:hover{
+      opacity: 0.7;
+    }
+    .fa-facebook {
+
+      color: blue;
+    }
+    .fa-google-plus {
+
+      color: red;
+    }
+    .fa-github{
+      color: grey;
+    }
+    .fa-linkedin-in {
+
+      color: white;
+    }
+
+    .fa-youtube {
+
+      color: red;
+    }
+    .fag{
+      background-color: rgba(89, 89, 89,0.50);
+      position: fixed;
+      bottom: 0px;
+      height: 7%;
+      width: 100%;
+    }
   </style>
 </head>
 <body>
@@ -124,8 +185,8 @@
   <img src="asesst/wite.png"><h2 class=" h2" id="title">Welcome Ferniture Rental Registation Form</h2>
   </div>
     <div class="form">
-<form action="/action_page.php" style="max-width:500px;margin:auto"><br><br>
-  <h2 class="h2" id="sub">Register Hear</h2><br><br><br><br>
+<form action="/action_page.php" style="max-width:500px;margin:auto"><br>
+  <h2 class="h2" id="sub">Register Hear</h2><br><br><br>
   <div class="input-container">
     <i class="fas fa-user icon"></i>
     <input class="input-field" type="text" placeholder="Username" name="usrnm">
@@ -139,6 +200,7 @@
   <div class="input-container">
     <i class="fas fa-handshake icon"></i>
     <select class="input-field">
+      <option>Choose Your Post?</option>
       <option>Customer</option>
       <option>Seller</option>
       <option>Deliver</option>
@@ -147,16 +209,25 @@
 
   <div class="input-container">
     <i class="fas fa-key icon"></i>
-    <input class="input-field" type="password" placeholder="Password" name="psw"><i class="far fa-eye icon"></i>
+    <input class="input-field" type="password" placeholder="Password" name="psw"><i  class="far fa-eye icon eye"></i>
   </div><br>
 
   <div class="input-container">
     <i class="fas fa-key icon"></i>
-    <input class="input-field" type="password" placeholder="Confirm Password" name="psw"><i class="far fa-eye icon"></i>
+    <input class="input-field" type="password" placeholder="Confirm Password" name="psw"><i class="far fa-eye icon eye"></i>
   </div><br>
 
-  <button type="submit" class="btn">Register</button>
+  <button type="submit" class="btn">Register</button><br><br>
+  <button type="submit" class="btn home">Home <<</button>
 </form>
+  </div>
+  <div class="social fag">
+    <p><h6>FurniRent &copy; All Right Resiverd</h6></p>
+    <a href="#" class="social"><i class="fab fa-facebook"></i></a>
+    <a href="#" class="social"><i class="fab fa-youtube"></i></a>
+    <a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+    <a href="#" class="social"><i class="fab fa-github"></i></a>
+    <a href="#" class="social"><i class="fab fa-google-plus"></i></a>
   </div>
 </div>
 </body>
