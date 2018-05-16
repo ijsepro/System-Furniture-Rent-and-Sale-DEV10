@@ -82,6 +82,7 @@
 
     .form{
       background-color: rgba(255,255,255,0.50);
+      z-index: 2;
       height: 620px;
       width: 32%;
       position: fixed;
@@ -159,8 +160,9 @@
       color: red;
     }
     .fa-github{
-      color: grey;
+      color: black;
     }
+
     .fa-linkedin-in {
 
       color: white;
@@ -176,6 +178,90 @@
       bottom: 0px;
       height: 7%;
       width: 100%;
+      margin: 0;
+      padding: 0;
+      z-index: 2;
+    }
+
+    @media all and (min-width: 210px) and (max-width:520px) {
+      #title {
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        position: fixed;
+        left: 18%;
+      }
+      img{
+        position: fixed;
+        width: 10%;
+        height: 22px;
+        left: 8%;
+      }
+      #sub{
+        color: white;
+        font-size: 12px;
+
+      }
+    }
+    @media all and (min-width: 520px) and (max-width:768px){
+      #title{
+        color: white;
+        font-weight: bold;
+        font-size: 30px;
+        position: fixed;
+        left: 18%;
+      }
+      img{
+        position: fixed;
+        width: 10%;
+        height: 32px;
+        left: 8%;
+      }
+      #sub{
+        color: white;
+        font-size: 18px;
+
+      }
+      }
+    @media all and (min-width: 768px) and (max-width:998px) {
+      #title {
+        color: white;
+        font-weight: bold;
+        font-size: 40px;
+        position: fixed;
+        left: 18%;
+      }
+      img{
+        position: fixed;
+        width: 10%;
+        height: 42px;
+        left: 8%;
+      }
+      #sub{
+        color: white;
+        font-size: 30px;
+        animation-name: sub;
+
+      }
+      .form{
+        background-color: rgba(255,255,255,0.50);
+        z-index: 2;
+        height: 620px;
+        width: 50%;
+        position: fixed;
+        top: 20%;
+        left: 26%;
+        border-radius: 20px;
+      }
+
+      .input-container {
+        display: -ms-flexbox; /* IE10 */
+        display: flex;
+        width: 90%;
+        margin-bottom: 15px;
+        position: relative;
+        left: 5.8%;
+      }
     }
   </style>
 </head>
@@ -222,7 +308,7 @@
 </form>
   </div>
   <div class="social fag">
-    <p><h6>FurniRent &copy; All Right Resiverd</h6></p>
+    <p><h6>FurniRent &copy; All Right Resiverd</h6>
     <a href="#" class="social"><i class="fab fa-facebook"></i></a>
     <a href="#" class="social"><i class="fab fa-youtube"></i></a>
     <a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
