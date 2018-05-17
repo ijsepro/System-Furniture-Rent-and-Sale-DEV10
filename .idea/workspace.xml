@@ -15,8 +15,8 @@
       <file leaf-file-name="sign-in.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="262" column="16" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
+            <state relative-caret-position="515">
+              <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -102,9 +102,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="196" />
-    <option name="y" value="302" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-35" />
+    <option name="y" value="105" />
     <option name="width" value="1562" />
     <option name="height" value="829" />
   </component>
@@ -116,9 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,6 +212,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,15 +344,18 @@
       <workItem from="1526401262441" duration="1091000" />
       <workItem from="1526431654914" duration="256000" />
       <workItem from="1526431967959" duration="499000" />
-      <workItem from="1526481118074" duration="3287000" />
+      <workItem from="1526481118074" duration="3717000" />
+      <workItem from="1526555265196" duration="569000" />
+      <workItem from="1526556294421" duration="597000" />
+      <workItem from="1526564872907" duration="3977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51790000" />
+    <option name="totallyTimeSpent" value="57363000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="302" width="1562" height="829" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -369,7 +372,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="TypeScript" order="7" weight="0.3298969" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3279431" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2125" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -557,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="262" column="16" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
+        <state relative-caret-position="515">
+          <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
         </state>
       </provider>
     </entry>
