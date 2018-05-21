@@ -17,21 +17,21 @@ if(!empty($username)|| !empty($email) || !empty($options) || !empty($psw) || !em
 	if (mysqli_connect_error()) {
 		die('Connect Error (' . mysqli_connect_errno() . ')' . mysqli_connect_error());
 	} else {
-		$SELECT = "SELECT regid From registation WHERE regid=? Limit=1";
-		$INSERT = "INSERT Into registation (regid , regname ,email ,post,regpassword,conpassword) values (?,?,?,?,?,?)";
+		$SELECT = "SELECT email From registation WHERE email=? Limit=1";
+		$INSERT = "INSERT Into registation (regname ,email ,post,regpassword,conpassword) values (?,?,?,?,?)";
 
 		//Prepare statemant
 		$stmt = $conn->prepare($SELECT);
-		$stmt->bind_param("s",$regid);
+		$stmt->bind_param("s",$email);
 		$stmt->execute();
-		$stmt->bind_result($regid);
+		$stmt->bind_result($email);
 		$stmt->store_result();
 		$rnum=$stmt->num_rows;
 
 		if($rnum==0){
 			$stmt->close();
 			$stmt=$conn->prepare($INSERT);
-			$stmt->bind_param("reg",$regid,$email,$options,$psw,$confirm);
+			$stmt->bind_param("reg",$regname,$email,$options,$psw,$confirm);
 			$stmt->execute();
 			echo "Registation Sucessfully";
 		}else{
