@@ -4,6 +4,7 @@ $email =$_POST['email'];
 $options =$_POST['options'];
 $psw =$_POST['psw'];
 $confirm =$_POST['confirm'];
+$data_pack = json_decode(file_get_contents('php://input'));
 
 if(!empty($username)|| !empty($email) || !empty($options) || !empty($psw) || !empty($confirm)) {
 	$host = "localhost";
