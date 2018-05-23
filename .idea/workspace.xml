@@ -11,33 +11,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings" doNotAsk="true">
-    <pharConfigPath />
+    <pharConfigPath>$PROJECT_DIR$/Back-End/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sign-in.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Sign-in.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tslint.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/tslint.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sign-in.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="406" column="51" lean-forward="true" selection-start-line="406" selection-start-column="51" selection-end-line="406" selection-end-column="51" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -93,9 +75,10 @@
         <option value="$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css" />
         <option value="$PROJECT_DIR$/Front-End/src/index.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.css" />
-        <option value="$PROJECT_DIR$/Back-End/application/controllers/sign-in.component.html" />
-        <option value="$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html" />
+        <option value="$PROJECT_DIR$/Back-End/index.php" />
+        <option value="$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php" />
+        <option value="$PROJECT_DIR$/Back-End/application/controllers/sign-in.component.html" />
       </list>
     </option>
   </component>
@@ -114,11 +97,13 @@
     </packageJsonPaths>
   </component>
   <component name="PhpServers">
-    <servers />
+    <servers>
+      <server host="localhost" id="6479552b-8fb4-4b3c-8308-3a9397e1aeae" name="Server" />
+    </servers>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="49" />
+    <option name="x" value="351" />
+    <option name="y" value="100" />
     <option name="width" value="1562" />
     <option name="height" value="894" />
   </component>
@@ -130,7 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,28 +225,28 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Back-End/application/controllers" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/Front-End/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Front-End\src\app\view\sign-in\asesst" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Back-End\application\controllers" />
       <recent name="C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Front-End\src\app\view\sign-in\cover" />
       <recent name="C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Front-End\src\app\view\sign-in" />
       <recent name="C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Front-End\src" />
       <recent name="C:\Users\User\Desktop\pro\Anjular\Front-End\src\app\view\slider\img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Front-End\src\app\view\sign-in\asesst" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -276,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Web Page.Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -298,6 +283,25 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="Sign-in.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php" />
+    <configuration name="Test" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="Server" start_url="/php/Back-End/application/controllers">
+      <method>
+        <option name="FtpUpload" enabled="true">
+          <server_id>35e45f6d-0d9f-4c87-9bf1-2113be3f11df</server_id>
+          <server_name>Server</server_name>
+          <path>C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Back-End\application\controllers</path>
+        </option>
+      </method>
+    </configuration>
+    <configuration name="php" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="Apache" start_url="/php/Back-End">
+      <method>
+        <option name="FtpUpload" enabled="true">
+          <server_id>22bf7712-b07a-475b-8f57-4bdc0d72c9ac</server_id>
+          <server_name>Apache</server_name>
+          <path>C:\Users\User\Desktop\New folder\System-Furniture-Rent-and-Sale-DEV10\Back-End</path>
+        </option>
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -334,6 +338,11 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list>
+      <item itemvalue="PHP Script.Sign-in.php" />
+      <item itemvalue="PHP Web Page.Test" />
+      <item itemvalue="PHP Web Page.php" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -384,29 +393,32 @@
       <workItem from="1526736675490" duration="1441000" />
       <workItem from="1526788451455" duration="2257000" />
       <workItem from="1527005957003" duration="63000" />
-      <workItem from="1527006327162" duration="518000" />
+      <workItem from="1527006327162" duration="1753000" />
+      <workItem from="1527077618812" duration="3988000" />
+      <workItem from="1527089014429" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69615000" />
+    <option name="totallyTimeSpent" value="76667000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="142" width="1562" height="856" extended-state="0" />
+    <frame x="351" y="100" width="1562" height="894" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104165" side_tool="true" weight="0.25600836" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5019405" side_tool="true" visible="true" weight="0.3299363" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4980595" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49895832" weight="0.34305555" />
       <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.3298969" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21216041" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -419,14 +431,15 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.3298969" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="CSS-X-Fire" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Learn" order="2" />
-      <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,10 +449,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Front-End/tslint.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5066">
+          <caret line="298" column="7" lean-forward="true" selection-start-line="298" selection-start-column="7" selection-end-line="298" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/welcome-section/welcome-section.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gole/gole.component.ts" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.ts" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.ts" />
@@ -575,25 +591,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/sign-in.component.html" />
-    <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php">
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+        <state relative-caret-position="17">
+          <caret line="298" column="7" selection-start-line="298" selection-start-column="7" selection-end-line="298" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/tslint.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html">
+    <entry file="file://$PROJECT_DIR$/Back-End/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="406" column="51" lean-forward="true" selection-start-line="406" selection-start-column="51" selection-end-line="406" selection-end-column="51" />
+        <state relative-caret-position="523">
+          <caret line="316" selection-start-line="316" selection-end-line="316" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/sign-in.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="420" column="13" lean-forward="true" selection-start-line="420" selection-start-column="13" selection-end-line="420" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
