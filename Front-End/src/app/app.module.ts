@@ -20,7 +20,13 @@ import { CommentsComponent } from './view/comments/comments.component';
 import { AboutUsComponent } from './view/about-us/about-us.component';
 import { FooterComponent } from './view/footer/footer.component';
 import { SignInComponent } from './view/sign-in/sign-in.component';
+import { RouterModule, Routes } from '@angular/router';
 
+const appRoutes: Routes = [
+  { path: 'view/sign-in', component: SignInComponent },
+  { path: 'view', component: ViewComponent },
+
+];
 
 @NgModule({
   declarations: [
@@ -44,6 +50,10 @@ import { SignInComponent } from './view/sign-in/sign-in.component';
     SignInComponent
   ],
   imports: [
+    RouterModule.forRoot(
+      appRoutes,
+      { enableTracing: true } // <-- debugging purposes only
+    ),
     BrowserModule
   ],
   providers: [],
