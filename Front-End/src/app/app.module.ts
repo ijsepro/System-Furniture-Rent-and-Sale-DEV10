@@ -14,7 +14,7 @@ import { FixedAreaComponent } from './view/fixed-area/fixed-area.component';
 import { TeamComponent } from './view/team/team.component';
 import { ProggressComponent } from './view/proggress/proggress.component';
 import { PhilosophyComponent } from './view/philosophy/philosophy.component';
-import { GigSliderComponent } from './view/gig-slider/gig-slider.component';
+import { GigSliderComponent } from './view/gig-area/gig-slider.component';
 import { ConnectComponent } from './view/connect/connect.component';
 import { CommentsComponent } from './view/comments/comments.component';
 import { AboutUsComponent } from './view/about-us/about-us.component';
