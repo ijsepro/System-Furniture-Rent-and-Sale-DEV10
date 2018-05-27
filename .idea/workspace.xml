@@ -15,90 +15,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/app.module.ts">
+      <file leaf-file-name="Sign-in.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="459">
+              <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sign-in.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3043">
-              <caret line="179" selection-start-line="179" selection-end-line="179" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sign-in.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-              <folding>
-                <element signature="e#1735#1741#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav-bar.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="76" column="56" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/app.component.html">
+      <file leaf-file-name="web-url.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/web-url.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="80" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="80" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
+      <file leaf-file-name="sign-in.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gig-page.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/app/Gig-Page/gig-page/gig-page.component.html">
+      <file leaf-file-name="philosophy.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#2;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="732" selection-start-line="4" selection-start-column="732" selection-end-line="4" selection-end-column="732" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Front-End/src/index.html">
+      <file leaf-file-name="proggress.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="357">
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proggress.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="163" column="20" selection-start-line="163" selection-start-column="20" selection-end-line="163" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connect.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -109,6 +84,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -129,10 +105,6 @@
         <option value="$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.css" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/team/team.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/team/team.component.css" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.html" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.css" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.html" />
-        <option value="$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.css" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.css" />
@@ -150,7 +122,6 @@
         <option value="$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/slider/slider.component.css" />
         <option value="$PROJECT_DIR$/Back-End/index.php" />
-        <option value="$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php" />
         <option value="$PROJECT_DIR$/Back-End/application/controllers/sign-in.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/app.component.html" />
@@ -160,6 +131,13 @@
         <option value="$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/view/view.component.html" />
         <option value="$PROJECT_DIR$/Front-End/src/app/Gig-Page/gig-page/gig-page.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/sign-in/web-url.ts" />
+        <option value="$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.ts" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.html" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.css" />
+        <option value="$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.html" />
       </list>
     </option>
   </component>
@@ -182,11 +160,11 @@
       <server host="localhost" id="6479552b-8fb4-4b3c-8308-3a9397e1aeae" name="Apache" />
     </servers>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="16" />
-    <option name="y" value="259" />
-    <option name="width" value="1562" />
-    <option name="height" value="1100" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-221" />
+    <option name="y" value="231" />
+    <option name="width" value="1932" />
+    <option name="height" value="927" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -196,8 +174,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,23 +226,6 @@
               <item name="Front-End" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Gig-Page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Gig-Page" type="462c0819:PsiDirectoryNode" />
-              <item name="gig-page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,7 +235,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="comments" type="462c0819:PsiDirectoryNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -282,7 +244,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="gig-slider" type="462c0819:PsiDirectoryNode" />
+              <item name="philosophy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -291,16 +253,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="gole" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="nav-bar" type="462c0819:PsiDirectoryNode" />
+              <item name="proggress" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
@@ -311,26 +264,16 @@
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="sign-in" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="System-Furniture-Rent-and-Sale-DEV10" type="462c0819:PsiDirectoryNode" />
-              <item name="Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="slider" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Back-End/application/controllers" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/Login-Pro" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/Front-End/node_modules/typescript/lib" />
@@ -490,15 +433,18 @@
       <workItem from="1527166837283" duration="3243000" />
       <workItem from="1527177935436" duration="3283000" />
       <workItem from="1527267300117" duration="679000" />
-      <workItem from="1527348267776" duration="549000" />
+      <workItem from="1527348267776" duration="1897000" />
+      <workItem from="1527393153255" duration="620000" />
+      <workItem from="1527410337388" duration="689000" />
+      <workItem from="1527435069258" duration="3620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85402000" />
+    <option name="totallyTimeSpent" value="91679000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-221" y="231" width="1932" height="927" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -511,11 +457,11 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49895832" visible="true" weight="0.2570533" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49895832" visible="true" weight="0.23105134" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="TypeScript" order="7" weight="0.3298969" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21242172" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -544,29 +490,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/fixed-area/fixed-area.component.html" />
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.ts" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.css" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/team/team.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.ts" />
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.html" />
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.css" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.ts" />
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/gig-slider/gig-slider.component.ts" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.ts" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.css" />
@@ -576,7 +503,6 @@
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/section/section.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/footer/footer.component.ts" />
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/about-us/about-us.component.html" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/nav-bar/nav-bar.component.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -588,7 +514,6 @@
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign.js" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/js.js" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/jquery.js" />
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.ts" />
     <entry file="file://$PROJECT_DIR$/Front-End/src/owl/gig.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -676,13 +601,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/sign-in.component.html" />
-    <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -697,16 +615,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3043">
-          <caret line="179" selection-start-line="179" selection-end-line="179" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="68">
           <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
@@ -725,22 +636,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-          <folding>
-            <element signature="e#1735#1741#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/view.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
+        <state relative-caret-position="714">
           <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Front-End/src/app/Gig-Page/gig-page/gig-page.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="816">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
@@ -752,6 +660,71 @@
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#2;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Back-End/application/config/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/web-url">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Back-End/application/controllers/Sign-in.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/web-url.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="80" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/sign-in/sign-in.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/philosophy/philosophy.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="732" selection-start-line="4" selection-start-column="732" selection-end-line="4" selection-end-column="732" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/proggress/proggress.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="163" column="20" selection-start-line="163" selection-start-column="20" selection-end-line="163" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front-End/src/app/view/connect/connect.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
