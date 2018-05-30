@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="35e45f6d-0d9f-4c87-9bf1-2113be3f11df" name="Server" url="http://localhost/php">
-        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\php" accessType="MOUNT" />
+      <webServer id="320eb05a-7c6e-44bb-9fd9-a341b62819b3" name="Apache" url="http://localhost/Back-End">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\Back-End" accessType="MOUNT" />
       </webServer>
     </option>
   </component>

@@ -11,16 +11,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="#" routerLink="">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About Us</a>
+          <a class="nav-link" href="#" routerLink="">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Team</a>
+          <a class="nav-link" href="#" routerLink="">Team</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Gigs</a>
+          <a class="nav-link" href="#" routerLink="">Gigs</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -49,8 +49,8 @@
                 <div class="col-md-12">
                   Login via
                   <div class="social-buttons">
-                    <a href="#" class="btn btn-fb"><i class="fa fa-facebook"></i> Facebook</a>
-                    <a href="#" class="btn btn-tw"><i class="fa fa-twitter"></i> Twitter</a>
+                    <a href="https://www.facebook.com" class="btn btn-fb"><i class="fa fa-facebook"></i> Facebook</a>
+                    <a href="https://twitter.com/?lang=en" class="btn btn-tw"><i class="fa fa-twitter"></i> Twitter</a>
                   </div>
                   or
                   <form class="form" role="form" method="post" action="login" accept-charset="UTF-8" id="login-nav">
@@ -74,11 +74,44 @@
                   </form>
                 </div>
                 <div class="bottom text-center">
-                  New here ? <a routerLink="view/sign-in"><b>Join Us</b></a>
+                  New here ? <a routerLink="view/sign-in"><b>Register</b></a>
                 </div>
               </div>
             </li>
           </ul>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#" routerLink="" onclick="document.getElementById('id01').style.display='block'" style="width:auto;"><i class="fas fa-user-secret"></i>  Admin Login</a>
+          <div id="id01" class="modal">
+
+            <form class="modal-content animate" action="/action_page.php">
+              <div class="imgcontainer">
+                <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+                <img src="https://i.pinimg.com/originals/67/70/a3/6770a3fa9bdcc1bd33770106cd70fb22.png" alt="Avatar" class="avatar"><br>
+                <h2>Furni Rent Admin Login</h2>
+              </div>
+
+              <div class="container">
+                <label formGroupName="user"><b>Username</b></label>
+                <input type="text" placeholder="Enter Username" name="uname" required class="form-control">
+
+                <label formGroup="psw"><b>Password</b></label>
+                <input type="password" placeholder="Enter Password" name="psw" required class="form-control">
+                <div class="action">
+                <button type="submit" class="btn btn-primary">Login</button>
+                <label>
+                  <input type="checkbox" checked="checked" name="remember"> Remember me
+                </label>
+                </div>
+              </div>
+
+              <div class="container" style="background-color:#f1f1f1">
+                <button type="button" onclick="document.getElementById('id01').style.display='none'" class="btn btn-danger cancel">Cancel</button>
+                <span class="psw">Forgot <a href="#">password?</a></span>
+              </div>
+            </form>
+          </div>
         </li>
       </ul>
 
@@ -88,4 +121,18 @@
       </form>
     </div>
   </nav>
+
+
 </div>
+
+<script>
+  // Get the modal
+  var modal = document.getElementById('id01');
+
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+</script>

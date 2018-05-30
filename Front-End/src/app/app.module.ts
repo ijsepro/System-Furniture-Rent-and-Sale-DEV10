@@ -22,6 +22,7 @@ import { FooterComponent } from './view/footer/footer.component';
 import { SignInComponent } from './view/sign-in/sign-in.component';
 import { RouterModule, Routes } from '@angular/router';
 import { GigPageComponent } from './Gig-Page/gig-page/gig-page.component';
+import { AdminComponent } from './view/admin/admin.component';
 
 const appRoutes: Routes = [
   { path: 'view/sign-in', component: SignInComponent },
@@ -49,7 +50,8 @@ const appRoutes: Routes = [
     AboutUsComponent,
     FooterComponent,
     SignInComponent,
-    GigPageComponent
+    GigPageComponent,
+    AdminComponent
   ],
   imports: [
     RouterModule.forRoot(
