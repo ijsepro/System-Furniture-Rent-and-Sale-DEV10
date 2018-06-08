@@ -7,17 +7,17 @@
   <h2 class="h2" id="sub">Register Hear</h2><br>
   <div class="input-container">
     <i class="fas fa-user icon"></i>
-    <input class="input-field" type="text" placeholder="Username" name="username" ngModel="name">
+    <input class="input-field" type="text" #username placeholder="Username" name="username" ngModel="name">
   </div><br>
 
   <div class="input-container">
     <i class="fas fa-envelope icon"></i>
-    <input class="input-field" type="email" placeholder="Email" name="email" ngModel="email">
+    <input class="input-field" type="email" #email placeholder="Email" name="email" ngModel="email">
   </div><br>
 
   <div class="input-container">
     <i class="fas fa-handshake icon"></i>
-    <select class="input-field" name="options" ngModelGroup="options">
+    <select class="input-field" #posttype name="options" ngModelGroup="options">
       <option>Choose Your Post?</option>
       <option>Customer</option>
       <option>Seller</option>
@@ -27,15 +27,15 @@
 
   <div class="input-container">
     <i class="fas fa-key icon"></i>
-    <input class="input-field" type="password" placeholder="Password" name="psw" ngModel="password"><i  class="far fa-eye icon eye"></i>
+    <input class="input-field" type="password" #password placeholder="Password" name="psw" ngModel="password"><i  class="far fa-eye icon eye"></i>
   </div><br>
 
   <div class="input-container">
     <i class="fas fa-key icon"></i>
-    <input class="input-field" type="password" placeholder="Confirm Password" name="confirm" ngModel="confpassword"><i class="far fa-eye icon eye"></i>
+    <input class="input-field" type="password" #confpassword placeholder="Confirm Password" name="confirm" ngModel="confpassword"><i class="far fa-eye icon eye"></i>
   </div><br>
 
-  <button type="submit" class="btn" value="Submit">Register</button><br><br>
+  <button type="submit" (click)="Register()" class="btn" value="Submit">Register</button><br><br>
  <button type="submit" class="btn home" routerLink="view">Home <<</button>
 </form>
   </div>

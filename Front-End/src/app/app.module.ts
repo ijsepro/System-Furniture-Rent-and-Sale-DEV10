@@ -22,10 +22,11 @@ import { FooterComponent } from './view/footer/footer.component';
 import { SignInComponent } from './view/sign-in/sign-in.component';
 import { RouterModule, Routes } from '@angular/router';
 
+
+
 const appRoutes: Routes = [
   { path: 'view/sign-in', component: SignInComponent },
   { path: 'view', component: ViewComponent },
-
 ];
 
 @NgModule({
@@ -47,7 +48,9 @@ const appRoutes: Routes = [
     CommentsComponent,
     AboutUsComponent,
     FooterComponent,
-    SignInComponent
+    SignInComponent,
+
+
   ],
   imports: [
     RouterModule.forRoot(

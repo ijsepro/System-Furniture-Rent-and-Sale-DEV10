@@ -1,0 +1,11 @@
+create database fernirent;
+use fernirent;
+
+create table Registers(
+    UserName varchar(150)not null,
+    Email varchar(100)not null,
+    PostType varchar(20)not null,
+    Password1 varchar(100)not null,
+    ConfPassword varchar(100)not null,
+    constraint primary key (Email)
+);
